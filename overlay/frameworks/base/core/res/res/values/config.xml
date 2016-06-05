@@ -399,4 +399,7 @@
 
     <!-- Enable blur support -->
     <bool name="config_ui_blur_enabled">true</bool>
+
+    <!-- Enable RR Hardware key pref -->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>
